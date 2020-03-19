@@ -12,3 +12,6 @@ git diff : xem sự khác nhau của 1 file sau 2 lần commit
 working directory : thư mục làm việc
 staging area :nơi thư mục sau khi được add
 git repo :nơi thư mục sau khi commit
+
+git checkout -- <tênfile> = git store <tênfile>: xoá thay đổi của file
+git reset HEAD -- <tênfile> : đưa file từ staging area về working directory
