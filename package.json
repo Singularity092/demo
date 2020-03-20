@@ -1,0 +1,15 @@
+{
+  "name": "bai1",
+  "version": "1.0.0",
+  "description": "How to use git?",
+  "main": "cat.js",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
