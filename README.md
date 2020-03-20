@@ -27,3 +27,7 @@ git reset --mixed <id commit>: các file đc commit sau commit kia sẽ về wor
 git reset --hard <id commit>: các file đc commit sau commit kia sẽ mất hẳn
 git revert <idcommit> để tạo 1 commit đảo ngược lại những thay đổi của 1 commit trong quá khứ, và commit này sẽ đứng cuối
 .gitignore
+
+Github
+git remote <link repo>
+git push / git push -u origin master
